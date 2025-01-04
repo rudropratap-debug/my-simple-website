@@ -12,3 +12,12 @@ img{
     height: 250px;
     width: 200px;
 }
+.para{
+    text-align: center;
+    padding-top:80px;
+    font-weight: bold;
+}
+span{
+    font-weight: bolder;
+    color:azure;
+}
