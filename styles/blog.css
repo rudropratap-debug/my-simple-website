@@ -3,6 +3,8 @@ div{
     height: 300px;
     width: 300px;
     padding: 20px;
+    margin-bottom: 10px;
     border: 5px solid black;
     box-shadow:3px 3px 3px;
+
 }
